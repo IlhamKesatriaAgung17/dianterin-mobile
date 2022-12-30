@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectDianterin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DIANTERIN</string>
+    <string name="nav_header_subtitle">Courier and Delivery Service</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Cek Resi</string>
+    <string name="menu_ongkir">Cek Ongkir</string>
+    <string name="menu_gallery">Hubungi Kami</string>
+    <string name="menu_slideshow">Tentang Aplikasi</string>
+    <string name="menu_lokasi">Lokasi</string>
+
+    <string name="deskripsi_cs">Jika Anda mendapatkan kendala dalam Aplikasi atau Kendala dalam pengeriman,silahkan hubung kami melalui kontak dibawah ini.</string>
+</resources>
